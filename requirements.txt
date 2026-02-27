@@ -1,0 +1,7 @@
+numpy
+tkinter
+torch
+torchdiffeq
+matplotlib
+Pillow
+networkx
