@@ -63,7 +63,7 @@ python A01CreateData.py
 
 ## A 系列 — Neural ODE 连续时空 Embedding 场
 
-> 对应研究内容 **2.1.1**: 基于 Neural ODE 的高频连续时空 Embedding 场构建方法
+
 
 ### A01CreateData.py — NDVI 栅格数据建立
 
@@ -111,7 +111,6 @@ python A01CreateData.py
 
 ## B 系列 — 异构图神经网络多源融合
 
-> 对应研究内容 **2.1.2**: 基于异构图神经网络 (HGNN) 的空天地多源数据协同融合方法
 
 ### B01CreateHPData.py — 多源异构数据采集模拟
 
@@ -146,7 +145,7 @@ python A01CreateData.py
 
 ## C 系列 — 机理约束与双向同化
 
-> 对应研究内容 **2.1.3**: 机理模型约束下的 Embedding 空间正则化与双向校正
+
 
 ### C01CreateData.py — 作物生长参数建立
 
@@ -209,16 +208,11 @@ python A01CreateData.py
 
 ---
 
-## 🔗 研究内容对应关系
 
-```
-研究内容 2.1.1  Neural ODE 连续时空Embedding场  ──→  A01 → A02 → A03
-研究内容 2.1.2  异构图神经网络多源协同融合      ──→  B01 → B02
-研究内容 2.1.3  机理约束Embedding正则化与双向校正 ──→  C01 → C02 → C03
-```
 
 ---
 
 <div align="center">
 <sub>本项目为课题申请原型验证程序，仅用于可行性演示。</sub>
 </div>
+
